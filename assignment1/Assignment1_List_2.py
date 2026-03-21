@@ -10,3 +10,4 @@ reslist=[]
 for i in range(5):
     reslist.append(list1[i]+list2[i])
 print('The resultant list is ',reslist)
+pri
