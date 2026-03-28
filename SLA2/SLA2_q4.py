@@ -1,7 +1,7 @@
 #zip
 city_list =[]
 location_list = []
-choice=2
+choice=0
 while choice != 2:
     choice=int(input("""
                      1. Insert
