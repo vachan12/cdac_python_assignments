@@ -34,7 +34,7 @@ while choice !=9:
             if sub_ch.lower() == "a":
                 data=input("Enter Data: ")
                 lst.append(data)
-                print("{data} inserted successfully")
+                print(f"{data} inserted successfully")
             elif sub_ch.lower() == "b":
                 pos=int(input("Enter position: "))
                 if pos > len(lst):
